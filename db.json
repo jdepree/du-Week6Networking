@@ -2,6 +2,7 @@
     "bikes":
     [
         {
+            "id": "1",
             "make": "Trek",
             "model": "820",
             "type": "mountain",
@@ -46,6 +47,7 @@
             ]
         },
         {
+            "id": "2",
             "make": "The Raleigh",
             "model": "old steel",
             "type": "road",
