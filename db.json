@@ -1,0 +1,44 @@
+{
+    "make": "Trek",
+    "model": "820",
+    "type": "mountain",
+    "seat":
+    {},
+    "pedals":
+    [
+        {
+            "orientation": "left",
+            "style": "bear claw",
+            "clipless": false
+        },
+        {
+            "orientation": "right",
+            "style": "bear claw",
+            "clipless": false
+        }
+    ],
+    "cassettes":
+    [
+        {
+            "name": "front",
+            "cogs":
+            [
+                {
+                    "teeth": 50
+                }
+            ]
+        },
+        {
+            "name": "rear",
+            "cogs":
+            [
+                {
+                    "teeth": 32
+                },
+                {
+                    "teeth": 16
+                }
+            ]
+        }
+    ]
+}
